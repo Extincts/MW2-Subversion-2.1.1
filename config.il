@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Project><Title>Sub Version 2.1.1</Title><Author /><Game>MW2</Game><Mode>MP</Mode><Platform>Steam</Platform><Symbols>DEBUG;EXAMPLE;ANYTHING_YOU_WANT</Symbols></Project>
